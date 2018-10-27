@@ -19,6 +19,7 @@
 - NodeJS for piGPIO, db, dash, and sensor rest api
 - SQLite for local DB
 - react for web dash & Electron/Benja for pi touchscreen dashboard
+- ffmpeg for image->timelapse video generation
 
 ## Nice to haves
 - Email/SMS/Push alerts for sustained undesired conditions & sensor errors
