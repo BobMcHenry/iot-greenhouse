@@ -1,0 +1,22 @@
+{
+  "name": "iot-greenhouse",
+  "version": "0.0.1",
+  "description": "local REST services for iot boards & sensors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobmchenry/iot-greenhouse.git"
+  },
+  "author": "BobM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobmchenry/iot-greenhouse/issues"
+  },
+  "homepage": "https://github.com/bobmchenry/iot-greenhouse#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
