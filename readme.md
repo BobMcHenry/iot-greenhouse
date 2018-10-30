@@ -9,8 +9,7 @@
 - Create a dashboard to display visualized climate data and timelapsed greenhouse activity (Web & PiTouchscreen)
 
 ![SysDiag Img] 
-(https://github.com/BobMcHenry/iot-greenhouse/MycoLab_systemdiagram_v1.png)
-
+(https://raw.githubusercontent.com/BobMcHenry/iot-greenhouse/master/MycoLab_systemdiagram_v1.png)
 
 ## The stuff
 - NodeMCU/ESP8266 for sensor control
