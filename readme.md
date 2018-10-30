@@ -8,6 +8,10 @@
 - Set-up timelapse generation from photos
 - Create a dashboard to display visualized climate data and timelapsed greenhouse activity (Web & PiTouchscreen)
 
+![SysDiag Img] 
+(https://github.com/BobMcHenry/iot-greenhouse/MycoLab_systemdiagram_v1.png)
+
+
 ## The stuff
 - NodeMCU/ESP8266 for sensor control
 - DHT22 Temp/RH sensors
